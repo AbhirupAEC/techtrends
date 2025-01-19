@@ -1,0 +1,6 @@
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.1.41:3111/ (Press CTRL+C to quit)
+DEBUG:app:about page retreived
+INFO:werkzeug:127.0.0.1 - - [19/Jan/2025 03:26:04] "GET /about HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Jan/2025 03:26:04] "GET /static/css/main.css HTTP/1.1" 200 -
